@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Three
+title: Week Four
 ---
 
 ## What did you do this past week? ##
@@ -9,13 +9,13 @@ This past week, I've been working on Netflix problem. My partner and I have been
 My mom visited this weekend and took me around Austin. Seeing family is always great during the semester and helped break the monotomy. 
 
 ## What's in your way? ##
-I do not have much to complain about this week. My energy levels are back to normal and I have a good sleeping schedule again.  
+I do not have much to complain about this week. My energy levels are back to normal and I have a good sleeping schedule again. I'm trying to stay on top of my work this semester. My partner and I have to finish the project and that will take a long time. 
 
 ## What will you do next week? ##
-My primary goal is to catch up with the reading and successfully finish the Collatz project. I fell behind on some of the reading from last week and it hurt me in the daily quizzes, so I'm hoping to rectify that mistake in the next week. Besides those, I will try to remain on top of my other classes so I can focus on this one.  
+My primary goal is to finish the Netflix project. I'll be cooridnating with my partner to finish the project through pair programming. Exams will be coming up, so I'm going to start studying now to avoid procrastinating. I'm doing better in the class quizzes, so I'm going to review my past class notes and keep up with the reading.   
 
 ## What's my experience of the class? ##
-I am enjoying this class so far. It is very nerve racking to be randomly called on in class, but I am getting used to Professor Downing's style of teaching. The quizzes seem a fair assessment of how much attention you paid in class and to the readings. The piazza answers are really useful in getting through the Collatz project successfully. 
+Going well so far! I feel I'm learning important skills that I'll use in the industry, instead of theory. The Python exposure is also great, since I havent taken any other classes that taught it. Piazza is really helpful in understanding the math around the Netflix problem. I think I'm finally ok with being called on in class, even though I'd still rather not be. 
 
 ## Tip of the week ##
-My tip of the week is to check out this book: https://learnpythonthehardway.org/. I originally used it to learn basic python, and am currently using it to review. For me, learning a new language does not come naturally, so having a good guide is invaluable. 
+I found this a couple days ago: https://chrome.google.com/webstore/detail/makegithubgreatagain/gpejlkhibgecggplgogpbgbdpnhogmhk. It's honestly not even that useful; it was just something I found kind of funny. 
